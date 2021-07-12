@@ -1,2 +1,2 @@
-# react-training-apps
+# react-training
 Ozzy's react training apps
